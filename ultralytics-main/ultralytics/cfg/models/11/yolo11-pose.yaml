@@ -1,5 +1,6 @@
 # Ultralytics YOLO 🚀, AGPL-3.0 license
 # YOLO11-pose keypoints/pose estimation model. For Usage examples see https://docs.ultralytics.com/tasks/pose
+#姿势/关键点 ：姿势检测那种运动关节的那种样子
 
 # Parameters
 nc: 80 # number of classes

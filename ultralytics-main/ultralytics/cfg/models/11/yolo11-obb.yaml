@@ -1,5 +1,6 @@
 # Ultralytics YOLO 🚀, AGPL-3.0 license
 # YOLO11 Oriented Bounding Boxes (OBB) model with P3-P5 outputs. For Usage examples see https://docs.ultralytics.com/tasks/obb
+#定向检测 ：也是检测一种方式，但是检测框会适应物体角度，输出有角度
 
 # Parameters
 nc: 80 # number of classes
