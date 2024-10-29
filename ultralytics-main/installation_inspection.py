@@ -13,3 +13,8 @@ print('cudnn版本:',torch.backends.cudnn.version())
 print('pytorch版本:',torch.__version__) #查阅pytorch版本
 import sys
 print('python版本:',sys.version) #查询python版本
+# 验证是否安装成功：
+#检验tensorrt是否安装成功
+# import tensorrt
+# print(tensorrt.__version__)
+# assert tensorrt.Builder(tensorrt.Logger())
